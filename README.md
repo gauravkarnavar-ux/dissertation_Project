@@ -16,8 +16,9 @@ Four classifiers are compared on TF-IDF text features. XGBoost is tuned and then
 
 | File | Description |
 |---|---|
-| `C5044513_dissertation_report 1.docx` | Final dissertation report |
-| `C5044513_dissertation_PPT (1).pdf` | Presentation slides |
+| `C5044513_dissertation_report.docx` | Final dissertation report |
+| `C5044513_dissertation_PPT.pdf` | Presentation slides (42 slides, including the AI Use Transparency Statement) |
+| `C5044513_dissertation_PPT.pptx` | PowerPoint version of the presentation slides |
 | `c5044513_Practical_Final.ipynb` | Main code notebook (practical implementation, with outputs) |
 | `c5044513_Practical_Final.html` | HTML copy of the practical notebook, viewable in any browser |
 | `c5044513_Overview_Final.ipynb` | Code notebook with the full written overview (data sources, variables, method and conclusions) |
